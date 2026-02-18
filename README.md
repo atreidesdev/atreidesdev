@@ -1,6 +1,6 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api?username=atreidesdev">
-  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=atreidesdev&langs_count=4)">
+  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=atreidesdev&langs_count=4">
 </p>
 
 <div align="center">
