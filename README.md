@@ -1,6 +1,6 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=atreidesdev&show_icons=true&theme=buefy&card_width=200&hide_title=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=atreidesdev&layout=compact">
+  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api?username=atreidesdev">
+  <img height="50%" width="auto" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=atreidesdev&langs_count=4)">
 </p>
 
 <div align="center">
